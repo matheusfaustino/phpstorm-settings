@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7dd9db72-2cc3-4008-9904-c650289c3cf6" name="dicasmei" url="http://0.0.0.0/app_dev.php">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
