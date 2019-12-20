@@ -4,6 +4,7 @@
       <mapping pattern="cnpjs-nao-validos" type="PLAIN_TEXT" />
       <mapping pattern="inverstimentos" type="PLAIN_TEXT" />
       <mapping pattern="login" type="PLAIN_TEXT" />
+      <mapping pattern="adadsa" type="PLAIN_TEXT" />
       <mapping pattern="CDB_LC" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
