@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schemas.xmlsoap.org/soap/envelope/" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.2/extResources/a74f2ac0_.xml" />
+    <resource url="https://schema.phpunit.de/9.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/c55a6d2a_phpunit.xsd" />
   </component>
 </application>
