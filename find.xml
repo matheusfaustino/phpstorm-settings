@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ffi-raylib'" />
-    <option name="defaultScopeName" value="Project 'ffi-raylib'" />
-    <option name="SEARCH_SCOPE" value="Project 'ffi-raylib'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
