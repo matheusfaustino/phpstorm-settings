@@ -86,6 +86,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
