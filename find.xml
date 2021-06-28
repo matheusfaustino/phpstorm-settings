@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.json</mask>
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.twig</mask>
     <mask>*x*.php</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
