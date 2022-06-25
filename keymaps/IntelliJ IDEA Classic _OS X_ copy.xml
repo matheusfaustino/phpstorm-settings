@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateStructureToolWindow" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -84,6 +87,9 @@
     <keyboard-shortcut first-keystroke="meta f7" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta i" />
@@ -101,15 +107,15 @@
   <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
