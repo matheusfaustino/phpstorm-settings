@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="dev" type="Dockerfile" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="exist_to_use_database" type="PLAIN_TEXT" />
       <mapping pattern=".generate-defuse-key.swp" type="PLAIN_TEXT" />
